@@ -1,4 +1,4 @@
-package hikaribase;
+package _hikaribase;
 
 import java.sql.SQLException;
 

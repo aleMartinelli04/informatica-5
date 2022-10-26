@@ -1,4 +1,4 @@
-package esjson;
+package jsones;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

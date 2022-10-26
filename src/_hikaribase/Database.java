@@ -1,4 +1,4 @@
-package hikaribase;
+package _hikaribase;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.pool.HikariPool;

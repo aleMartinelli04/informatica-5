@@ -1,6 +1,6 @@
 package dbartists;
 
-import hikaribase.Database;
+import _hikaribase.Database;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
