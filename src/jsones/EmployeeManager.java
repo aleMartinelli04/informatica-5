@@ -10,7 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class EmployeeManager {
-    private List<Employee> employees;
+    private final List<Employee> employees;
     private final Path path;
 
     public EmployeeManager(Path path) throws IOException {
