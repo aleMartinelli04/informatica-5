@@ -13,5 +13,6 @@
     <orderEntry type="library" name="konghq.unirest.java" level="project" />
     <orderEntry type="library" name="protobuf-java-3.19.4" level="project" />
     <orderEntry type="library" name="mysql.connector.j" level="project" />
+    <orderEntry type="library" name="com.zaxxer:HikariCP:5.0.1" level="project" />
   </component>
 </module>
